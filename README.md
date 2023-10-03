@@ -1,1 +1,13 @@
-# My-first-website.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> First Websitee</title>
+<meta charset="UTF-8">
+  </head>
+<body>
+
+<h1>Khro.nicle</h1>
+<p></p>
+
+</body>
+</html>
